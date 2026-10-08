@@ -18,7 +18,7 @@ File changes made through **bash** (e.g. `sed -i`, formatters, generated files) 
 pi install ./pi-file-review
 
 # or from git
-pi install git:github.com/<you>/pi-file-review
+pi install git:github.com/aseiger/pi-file-review
 
 # or try it for one invocation
 pi -e ./extensions/file-review.ts
